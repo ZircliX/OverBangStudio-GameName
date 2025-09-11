@@ -4118,10 +4118,6 @@ PrefabInstance:
       propertyPath: GlobalObjectIdHash
       value: 488033318
       objectReference: {fileID: 0}
-    - target: {fileID: 7802162413815413304, guid: 6d29c91fc78d6d144b0c77400697d93d, type: 3}
-      propertyPath: InScenePlacedSourceGlobalObjectIdHash
-      value: 887330494
-      objectReference: {fileID: 0}
     - target: {fileID: 8391480036621521149, guid: 6d29c91fc78d6d144b0c77400697d93d, type: 3}
       propertyPath: shipTransform
       value: 
