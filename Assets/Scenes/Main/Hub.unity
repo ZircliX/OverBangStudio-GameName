@@ -2623,6 +2623,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   difficulty: 0
+  settings:
+    Type: 1
+    ClassLimitation: -1
 --- !u!4 &1688460545
 Transform:
   m_ObjectHideFlags: 0
@@ -2666,7 +2669,7 @@ Transform:
   m_GameObject: {fileID: 1765237353}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3628267, y: 0.48663908, z: -0.7076103, w: 0.3616999}
-  m_LocalPosition: {x: 0, y: 10.02, z: 0}
+  m_LocalPosition: {x: 0, y: 10, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2955,7 +2958,7 @@ Light:
   serializedVersion: 11
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 100000
+  m_Intensity: 8500
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
@@ -2998,7 +3001,7 @@ Light:
   m_LightShadowCasterMode: 2
   m_AreaSize: {x: 0.5, y: 0.5}
   m_BounceIntensity: 1
-  m_ColorTemperature: 5500
+  m_ColorTemperature: 5049
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 9.28e-43, y: 4.264e-42, z: 0, w: -2.7968524e+35}
   m_UseBoundingSphereOverride: 0
