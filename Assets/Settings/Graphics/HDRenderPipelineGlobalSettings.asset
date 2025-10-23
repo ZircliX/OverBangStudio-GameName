@@ -193,7 +193,29 @@ MonoBehaviour:
       - rid: 3329279029736374518
       - rid: 3329279029736374519
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 3329279029736374485
+      - rid: 3329279029736374487
+      - rid: 3329279029736374488
+      - rid: 3329279029736374490
+      - rid: 3329279029736374491
+      - rid: 3329279029736374492
+      - rid: 3329279029736374495
+      - rid: 3329279029736374496
+      - rid: 3329279029736374497
+      - rid: 3329279029736374499
+      - rid: 3329279029736374500
+      - rid: 3329279029736374502
+      - rid: 3329279029736374503
+      - rid: 3329279029736374504
+      - rid: 3329279029736374505
+      - rid: 3329279029736374506
+      - rid: 3329279029736374509
+      - rid: 3329279029736374510
+      - rid: 3329279029736374515
+      - rid: 3329279029736374516
+      - rid: 3329279029736374517
+      - rid: 3329279029736374519
   renderingLayerNames:
   - Default
   lightLayerName0: 
@@ -740,7 +762,7 @@ MonoBehaviour:
       type: {class: HDRPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Runtime}
       data:
         m_Version: 0
-        m_VolumeProfile: {fileID: 11400000, guid: 4f9fbb9f05b073e4e91038dbc2e676a9, type: 2}
+        m_VolumeProfile: {fileID: 11400000, guid: 7f342610b85f4164f808a1f380dcc668, type: 2}
     - rid: 3329279029736374507
       type: {class: HDRenderingLayersLimitSettings, ns: UnityEditor.Rendering.HighDefinition, asm: Unity.RenderPipelines.HighDefinition.Editor}
       data:

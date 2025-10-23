@@ -1,24 +1,33 @@
 {
   "dependencies": {
-    "com.ltx.channeled-properties": "2.0.1",
-    "com.ltx.singletons": "1.2.0",
-    "com.ltx.tools": "1.1.3",
+    "com.eflatun.scenereference": "git+https://github.com/starikcetin/Eflatun.SceneReference.git#4.1.1",
+    "com.helteix.channeled-properties": "2.0.7",
+    "com.helteix.singletons": "1.3.1",
+    "com.helteix.tools": "1.3.7",
+    "com.unity.addressables": "2.7.3",
     "com.unity.ai.navigation": "2.0.7",
+    "com.unity.cinemachine": "3.1.4",
     "com.unity.collab-proxy": "2.8.2",
+    "com.unity.formats.fbx": "5.1.4",
     "com.unity.ide.rider": "3.0.36",
     "com.unity.ide.visualstudio": "2.0.23",
     "com.unity.inputsystem": "1.14.0",
     "com.unity.multiplayer.center": "1.0.0",
-    "com.unity.multiplayer.playmode": "1.4.3",
-    "com.unity.multiplayer.tools": "2.2.4",
+    "com.unity.multiplayer.center.quickstart": "1.0.1",
+    "com.unity.multiplayer.playmode": "1.6.0",
+    "com.unity.multiplayer.tools": "2.2.6",
     "com.unity.multiplayer.widgets": "1.0.1",
-    "com.unity.netcode.gameobjects": "2.4.3",
+    "com.unity.netcode.gameobjects": "2.4.4",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.probuilder": "6.0.7",
     "com.unity.render-pipelines.high-definition": "17.1.0",
-    "com.unity.services.multiplayer": "1.1.4",
+    "com.unity.services.multiplayer": "1.1.6",
+    "com.unity.services.vivox": "16.6.2",
     "com.unity.test-framework": "1.5.1",
     "com.unity.timeline": "1.8.7",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.6",
+    "com.wooshii.hierarchydecorator": "https://github.com/WooshiiDev/HierarchyDecorator.git",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -30,6 +39,7 @@
     "com.unity.modules.imageconversion": "1.0.0",
     "com.unity.modules.imgui": "1.0.0",
     "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.nvidia": "1.0.0",
     "com.unity.modules.particlesystem": "1.0.0",
     "com.unity.modules.physics": "1.0.0",
     "com.unity.modules.physics2d": "1.0.0",
@@ -55,9 +65,9 @@
   "scopedRegistries": [
     {
       "name": "Helteix",
-      "url": "https://helteix-verdaccio.euvtgm.easypanel.host",
+      "url": "https://upm.pckgs.io",
       "scopes": [
-        "com.ltx"
+        "com.helteix"
       ],
       "overrideBuiltIns": true
     }
